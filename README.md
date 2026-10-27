@@ -32,7 +32,7 @@ Painel interativo com as salas das disciplinas de Sistemas de Informação da UN
 
 ### Landing pages responsivas
 
-Sites de estudo em HTML, CSS e JavaScript: [Garagem Clássica](https://pedrobartkevihi.github.io/SiteCarros/) · [Aurora Odontologia](https://pedrobartkevihi.github.io/AuroraOdontologia/) · [Pátio da Maré](https://pedrobartkevihi.github.io/PatioDaMare/) · [Pixel de Partida](https://pedrobartkevihi.github.io/PixelDePartida/)
+Sites de estudo em HTML, CSS e JavaScript: [Garagem Clássica](https://pedrobartkevihi.github.io/GaragemClassica/) · [Aurora Odontologia](https://pedrobartkevihi.github.io/AuroraOdontologia/) · [Pátio da Maré](https://pedrobartkevihi.github.io/PatioDaMare/) · [Pixel de Partida](https://pedrobartkevihi.github.io/PixelDePartida/)
 
 ### [Exercícios em C](https://github.com/PedroBartkevihi/Exercicios_Linguagem_C)
 
